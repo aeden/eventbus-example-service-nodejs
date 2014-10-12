@@ -9,9 +9,7 @@ If necessary, install nodejs.
 Next, install the dependencies:
 
 ```
-npm install ws
-npm install sleep
-npm install dotenv
+npm install
 ```
 
 # Running
