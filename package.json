@@ -1,0 +1,24 @@
+{
+  "name": "eventbus-example-service",
+  "version": "1.0.0",
+  "description": "This is a NodeJS event handler that can attach to the EventBus system and process events.",
+  "main": "eventhandler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aeden/eventbus-example-service-nodejs.git"
+  },
+  "author": "Anthony Eden <me@anthonyeden.com> (http://anthonyeden.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aeden/eventbus-example-service-nodejs/issues"
+  },
+  "homepage": "https://github.com/aeden/eventbus-example-service-nodejs",
+  "dependencies": {
+    "ws": "latest",
+    "sleep": "latest",
+    "dotenv": "latest"
+  }
+}
