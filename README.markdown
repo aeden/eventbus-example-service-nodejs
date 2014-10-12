@@ -1,6 +1,6 @@
 # Introduction
 
-This is a NodeJS event handler that can attach to the EventBus system and process events.
+This is a NodeJS event handler that can attach to the [EventBus](https://github.com/aeden/eventbus) system and process events.
 
 # Installation
 
@@ -22,7 +22,7 @@ To start, set up .env as follows:
 AUTHORIZATION_TOKEN=123abc
 ```
 
-You should change the token if you change it in the [EventBus](https://github.com/aeden/eventbus) service config.
+You should change the token if you change it in the EventBus service config.
 
 Once .env is set up, run `node eventhandler.js`
 
